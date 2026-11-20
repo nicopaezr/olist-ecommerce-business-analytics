@@ -2,6 +2,7 @@
 -- 07: CUSTOMER SATISFACTION
 -- Project: Olist E-Commerce Business Analytics
 -- =====================================================
+USE olist_ecommerce;
 
 -- What is the overall customer satisfaction level based on recorded review scores?
 SELECT

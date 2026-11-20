@@ -21,7 +21,7 @@ SELECT
     SUM(order_approved_at = '') AS blank_approval_dates,
     SUM(order_delivered_carrier_date = '') AS blank_carrier_dates,
     SUM(order_delivered_customer_date = '') AS blank_delivery_dates,
-    SUM(order_estimated_delivery_date = ' ') AS blanck_estimated_dates
+    SUM(order_estimated_delivery_date = '') AS blank_estimated_dates
 FROM orders_raw;
 
 SELECT

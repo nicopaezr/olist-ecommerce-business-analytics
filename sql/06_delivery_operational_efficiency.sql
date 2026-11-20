@@ -2,6 +2,7 @@
 -- 06: DELIVERY AND OPERATIONAL EFFICIENCY
 -- Project: Olist E-Commerce Business Analytics
 -- =====================================================
+USE olist_ecommerce;
 
 -- What percentage of delivered orders arrived later than their estimated delivery dates?
 SELECT 

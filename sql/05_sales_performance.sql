@@ -2,6 +2,7 @@
 -- 05: SALES REVENUE AND PERFORMANCE SQL ANALYSIS
 -- Project: Olist E-Commerce Business Analytics
 -- =====================================================
+USE olist_ecommerce;
 
 -- How many orders have recorded items and were delivered?
 -- What is the total product sales, freight, and combined value?
